@@ -1,16 +1,15 @@
-# first_flutter_app
+# Dice_Roller_App
 
-A new Flutter project.
+a simple app to roll the dice.
 
-## Getting Started
+## about the lesson
 
-This project is a starting point for a Flutter application.
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/37130450#overview
 
-A few resources to get you started if this is your first Flutter project:
+## how to run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ctrl + shift + p
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Flutter: Select Device
+
+on tab bar : run > start debugging or press F5
