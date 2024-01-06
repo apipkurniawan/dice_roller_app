@@ -12,8 +12,16 @@ https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/
 
 ## how to run
 
-1. ctrl + shift + p
+1. install dependencies
 
-> Flutter: Select Device
+   flutter pub get
 
-2. on tab bar : run > start debugging or press F5
+2. choose device
+
+   ctrl + shift + p
+
+   > Flutter: Select Device
+
+3. run the app
+
+   on tab bar : run > start debugging or press F5
