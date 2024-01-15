@@ -6,7 +6,7 @@ a simple app to roll the dice.
 
 [Watch it on YouTube](https://www.youtube.com/watch?v=PY93zV0ZAqs)
 
-## about the lesson
+## what we learn
 
 https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/37130450#overview
 
